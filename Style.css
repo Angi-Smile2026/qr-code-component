@@ -1,0 +1,45 @@
+*
+{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body
+{
+    background-color:hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+.QR_code img
+{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.card
+{
+    background-color: white;
+    width: 300px;
+    padding: 13px;
+    padding-bottom: 50px;
+    margin: 50px auto;
+    border: 10px;
+    border-radius: 15px;
+}
+.phrase h1
+{
+    font-size: 20px;
+    text-align: center;
+    padding: 4px;
+    margin: 7px;
+
+}
+.description p
+{
+    color: hsl(216, 15%, 48%);
+    margin: 12px 15px;
+    text-align: center;
+}
+
+
+
